@@ -1,5 +1,5 @@
-# isf-calpoly-web
-This is the repository for the ISF Cal Poly event website. The website is built using [React](https://react.dev/). The website is hosted on [AWS](https://aws.amazon.com/).
+# FOS-DeAnza-Web
+This is the repository for the FOS-DeAnza event website. The website is built using [React](https://react.dev/). The website is hosted on [AWS](https://aws.amazon.com/).
 
 ## Getting Started
 To get started, you will need to install [Node.js](https://nodejs.org/en/). Once you have Node.js installed, you can run the following commands to get started.
