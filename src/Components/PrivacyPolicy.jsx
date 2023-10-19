@@ -1,25 +1,47 @@
 // a Privacy policy page
 
 const PrivacyPolicy = () => {
-    return (
-        <div>
-            <h3>ISI Privacy Policy</h3>
-            <p>If you give your information to us to be invited to our events and programs, 
-                you have a right to expect that we will keep your information safe.  We respect that. 
-                We never have and never will share our mailing list with an outside organization for any 
-                reason. The information you give us is used to invite you to activities, including meals 
-                and social occasions.  Your data is secure with us.  </p>
-            <p> One final note: We have no connection to any government and just focus on loving international 
-                students here. We realize other organizations may use the “ISI” acronym. However, please be assured, 
-                International Students, Inc. is not associated with them in any way. </p>
-            {/* <ul>
-                <li>Our team (staff, student leaders, and your Friendship Partner) will use your information to invite you to activities, and to get together for meals and social occasions.</li>
-                <li>We never have and never will share our mailing list with an outside organization for any reason.</li>
-                <li>We also want you to know that your data is secure with us.</li>
-                <li>One final note: We are happy to say that we have no connection to any government and just focus on loving international students here. We realize other organizations may use the “ISI” acronym. However, please be assured, International Students, Inc. is not associated with them in any way.</li>
-            </ul> */}
-        </div>
-    )
-}
+  return (
+    <div>
+      <h3>FOS 隐私条例声明</h3>
+      <p>
+        感谢您选择参与我们的活动和项目。我们非常尊重您的隐私，并致力于保护您的个人信息。请详细阅读以下隐私声明，了解我们如何处理和保护您的数据：
+      </p>
+
+      <p>
+        <b>1. 信息收集与使用</b>
+      </p>
+      <p>
+        如果您选择提供您的信息以接收我们的活动和项目邀请，我们将只收集和使用您提供的信息，包括但不限于您的姓名、电子邮件地址、和联系信息。我们将使用这些信息仅用于向您发出活动邀请、接送、包括餐饮和社交聚会等。
+      </p>
+
+      <p>
+        <b>2. 信息保护</b>
+      </p>
+      <p>
+        我们承诺绝不会分享、出售或出租您的个人信息给任何外部组织，无论出于何种原因。您提供的信息在我们这里是安全的，并受到适当的安全措施的保护。
+      </p>
+
+      <p>
+        <b>3. 访问和更正</b>
+      </p>
+      <p>
+        您可以随时要求访问、更正或删除您提供的个人信息。如果您有任何隐私方面的疑虑或需求，请随时联系我们。
+      </p>
+
+      <p>
+        <b>4. 与政府的关联</b>
+      </p>
+      <p>
+        我们与任何政府机构都没有关联。我们专注于热情地欢迎国际学生，并致力于提供友好和有爱的环境。
+      </p>
+
+      <br></br>
+      <p>
+        如果您对我们的隐私声明有任何疑问或需要进一步的信息，请随时联系我们。感谢您的信任，选择加入我们的活动和项目。
+      </p>
+    </div>
+  );
+};
 
 export default PrivacyPolicy;

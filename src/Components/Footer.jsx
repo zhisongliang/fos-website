@@ -52,35 +52,35 @@ const Footer = () => {
                 <Row>
                     <Col lg={6} xs={12} className="footer-col mb-4 mb-md-0">
                         <div>
-                            <h2><a href="isfcalpoly.org">ISF</a></h2>
-                            <p>More information on our Ins/FB pages.</p>
+                            <h2><a href="deanzafos.club">FOS</a></h2>
+                            <p>更多信息可以查看我们的Instagram和Facebook页面</p>
                         </div>
                         <div className="social-icons">
-                        <a href="https://www.instagram.com/isf_calpoly/" className="social-link"><span className="circle-icon"><AiFillInstagram style={iconStyle} /></span></a>
-                        <a href="https://www.facebook.com/ISFcalpoly/about/?ref=page_internal" className="social-link"><span className="circle-icon"><AiFillFacebook style={iconStyle} /></span></a>
+                        <a href="https://www.instagram.com/deanza_fos/" className="social-link"><span className="circle-icon"><AiFillInstagram style={iconStyle} /></span></a>
+                        <a href="https://www.facebook.com/groups/292290343474/" className="social-link"><span className="circle-icon"><AiFillFacebook style={iconStyle} /></span></a>
                         </div>
                     </Col>
 
                     <Col lg={3} sm={6} xs={12} className="footer-col mb-4 mb-md-0">
                         <div>
                             <div className="menu-title">MENU</div>
-                            <div className="menu-item"><Link to="about" smooth duration={500} >About</Link></div>
-                            <div className="menu-item"><Link to="events" smooth duration={500}>Past Events</Link></div>
-                            <div className="menu-item"><Link to="calendar" smooth duration={500}>Event Calendar</Link></div>
+                            <div className="menu-item"><Link to="about" smooth duration={500} >关于我们</Link></div>
+                            <div className="menu-item"><Link to="events" smooth duration={500}>活动展示</Link></div>
+                            <div className="menu-item"><Link to="calendar" smooth duration={500}>活动日程</Link></div>
                             {/* link to a new page */}
-                            <div className="menu-item"><RouterLink to="/privacy">Privacy Policy</RouterLink></div>
+                            <div className="menu-item"><RouterLink to="/privacy">隐私条例</RouterLink></div>
                         </div>
                     </Col>
 
                     <Col lg={3} sm={6} xs={12} className="footer-col">
                         <div>
-                            <div className="menu-title">Contact us</div>
-                            <div className="menu-item"><a href="isfcalpoly@gmail.com"> </a>Email: isfcalpoly@gmail.com </div>
-                            <div className="menu-item"><a href="https://www.instagram.com/isf_calpoly/">Instagram: @isf_calpoly</a></div>
-                            <div className="menu-item"><a href="https://www.facebook.com/ISFcalpoly">Facebook: @ISFcalpoly</a></div>  
+                            <div className="menu-title">联系我们</div>
+                            <div className="menu-item"><a href="mailto:deanzafosclub@gmail.com">Email: DeAnzaFOSclub@gmail.com  </a></div>
+                            <div className="menu-item"><a href="https://www.instagram.com/deanza_fos/">Instagram: @deanza_fos</a></div>
+                            <div className="menu-item"><a href="https://www.facebook.com/groups/292290343474/">Facebook: @Fellowship of Overseas Students ( FOS ) at De Anza College</a></div>  
                         </div>
                     </Col>
-                    <div className="copyright">  © {new Date().getFullYear()} ISF Cal Poly</div>
+                    <div className="copyright"> © {new Date().getFullYear()} FOS at De Anza</div>
                 </Row>
             </Container>
         </footer>
