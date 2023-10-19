@@ -28,7 +28,7 @@ const Calendar = () => {
           {/* <div><img src={require("../Images/bonfire.png")} alt="event1" data-cursor-text="Check out"/></div> */}
           <ReactEmbeddedGoogleCalendar
             className="calender"
-            publicUrl="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23e08451&ctz=America%2FLos_Angeles&showCalendars=1&hl=zh_CN&showPrint=0&showTitle=0&showNav=1&showTabs=1&src=ZGVhbnphZm9zY2x1YkBnbWFpbC5jb20&color=%23039BE5"
+            publicUrl="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23e08451&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&hl=zh_CN&mode=MONTH&src=ZGVhbnphZm9zY2x1YkBnbWFpbC5jb20&color=%23039BE5"
             height="600px"
           />
         </Fade>
