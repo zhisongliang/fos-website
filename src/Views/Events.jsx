@@ -89,7 +89,9 @@ const Events = () => {
                     countries.
                   </p>
                   <a href="https://www.facebook.com/groups/292290343474">
-                    <span className="button button-hero">Discover more</span>
+                    <span className="button button-hero">
+                      关注我们的Instagram
+                    </span>
                   </a>
                 </div>
               </Col>
