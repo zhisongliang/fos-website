@@ -116,7 +116,7 @@ const Events = () => {
                   Kayaking Morro Bay from Central Coast Outdoors ensures you
                   will see the wonders of this extraordinary National Estuary.{" "}
                 </p>
-                <a href="https://www.facebook.com/groups/calpoly.isf/posts/4338759916242974/">
+                <a href="https://www.facebook.com/groups/292290343474/">
                   <span className="button button-hero">
                     Join our Facebook group
                   </span>
