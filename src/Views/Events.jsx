@@ -17,7 +17,6 @@ const Events = () => {
               <img
                 src={require("../Images/details/details1.jpg")}
                 alt="Details3"
-                data-cursor-text="Check out"
               />
             </Col>
 
@@ -60,7 +59,6 @@ const Events = () => {
                 <img
                   src={require("../Images/details/details2.jpg")}
                   alt="Details2"
-                  data-cursor-text="Check out"
                 />
               </Col>
             </Row>
@@ -75,7 +73,6 @@ const Events = () => {
                 <img
                   src={require("../Images/details/details2.jpg")}
                   alt="Details2"
-                  data-cursor-text="Check out"
                 />
               </Col>
 
@@ -105,7 +102,6 @@ const Events = () => {
               <img
                 src={require("../Images/details/details3.jpg")}
                 alt="Details1"
-                data-cursor-text="Check out"
               />
             </Col>
 
