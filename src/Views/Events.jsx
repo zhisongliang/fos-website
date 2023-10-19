@@ -111,10 +111,12 @@ const Events = () => {
 
             <Col lg={4} className="col-description">
               <div>
-                <h3 style={{ fontWeight: "normal" }}>YCIS庆祝中国新年</h3>
+                <h3 style={{ fontWeight: "normal" }}>
+                  圣诞White Elephant礼物交换
+                </h3>
                 <p>
-                  和Yew Chung International
-                  School的小朋友们一起庆祝新春，享受好吃的中餐！{" "}
+                  圣诞节怎么能少了White
+                  Elephant礼物交换活动呢！带上你准备的小礼物参与我们的圣诞活动～{" "}
                 </p>
                 <a href="https://www.facebook.com/groups/292290343474/">
                   <span className="button button-hero">了解更多</span>
