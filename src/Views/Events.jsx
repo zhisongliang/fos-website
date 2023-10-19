@@ -42,11 +42,11 @@ const Events = () => {
               <Col lg={4} className="col-description">
                 <div>
                   <h3 style={{ fontWeight: "normal" }}>
-                    Multi-Cultural Potluck Dinner.
+                    City Forest 植树造林志愿者活动
                   </h3>
                   <p>
-                    There was a variety of food and dessert from different
-                    countries.
+                    FOS与非营利组织City
+                    Forest有长久以来的合作。我们每年都会组织学生去参与植树造林志愿者活动，绿化我们所居住的圣何塞社区。我们也会给参与的学生发放对转学有帮助的志愿者证书。
                   </p>
                   <a href="https://www.instagram.com/deanza_fos/">
                     <span className="button button-hero">
@@ -82,11 +82,11 @@ const Events = () => {
               <Col lg={4} className="col-description">
                 <div>
                   <h3 style={{ fontWeight: "normal" }}>
-                    Multi-Cultural Potluck Dinner.
+                    City Forest 植树造林志愿者活动
                   </h3>
                   <p>
-                    There was a variety of food and dessert from different
-                    countries.
+                    FOS与非营利组织City
+                    Forest有长久以来的合作。我们每年都会组织学生去参与植树造林志愿者活动，绿化我们所居住的圣何塞社区。我们也会给参与的学生发放对转学有帮助的志愿者证书。
                   </p>
                   <a href="https://www.facebook.com/groups/292290343474">
                     <span className="button button-hero">
@@ -111,10 +111,10 @@ const Events = () => {
 
             <Col lg={4} className="col-description">
               <div>
-                <h3 style={{ fontWeight: "normal" }}>Morro Bay Kayaking.</h3>
+                <h3 style={{ fontWeight: "normal" }}>YCIS庆祝中国新年</h3>
                 <p>
-                  Kayaking Morro Bay from Central Coast Outdoors ensures you
-                  will see the wonders of this extraordinary National Estuary.{" "}
+                  和Yew Chung International
+                  School的小朋友们一起庆祝新春，享受好吃的中餐！{" "}
                 </p>
                 <a href="https://www.facebook.com/groups/292290343474/">
                   <span className="button button-hero">了解更多</span>

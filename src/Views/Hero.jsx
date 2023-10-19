@@ -41,7 +41,7 @@ const Hero = () => {
 
           <Col lg={6} className="p-0">
             {/* <Fade></Fade> ..*/}
-            <img src={require("../Images/hero2.png")} alt="Hero" />
+            <img src={require("../Images/hero1.png")} alt="Hero" />
           </Col>
         </Row>
       </Container>
