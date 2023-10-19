@@ -98,7 +98,7 @@ const Content = () => {
           <h1 className="primary-color">FOS</h1>
           <h2>海外学生团契</h2>
           <p style={{ maxWidth: 550 }}>
-            De Anza FOS （海外学生团契） 是一群爱神的学生们组成的。我们的主旨是
+            De Anza FOS （海外学生团契） 是由一群爱神的学生们组成。我们的主旨是
             分享关怀、建立关系、无偿帮助。你的参与会带来别人的祝福，我们乐意与你作朋友。
             <br />
             <br />
